@@ -13,7 +13,7 @@ In this project, I trained machine learning model to determine wheter email is s
 ## Methodology
 <a name="methodology"></a>
 ### Overview of Random Forest
-Random forest is a one of the most famous supervised machine learning estimator where it combines the output of multiple [decision trees](#decision_trees) to reach a single result. 
+Random forest is a one of the most famous supervised machine learning algorithm where it combines the output of multiple [decision trees](#decision_trees) to reach a single result. 
 This estimator is famous due to its capability of tacking both classification and regression problems effectively. It trained throught bagging, which is an ensemble meta-algorithm that 
 improves the accuracy of machine learning algorithms. This algorithm establishes the outcome based on the predicitons of the decision trees. This algorithm successed to avoid the limitation of a decision tree algorithm.
 It reduce the overfitting od datasets and increases precision. The outcome is determined by majority-vote.
